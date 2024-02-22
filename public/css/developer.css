@@ -1,0 +1,40 @@
+.floatright:{float: right!important}
+.red{color: red}
+.mandatory{color:red}
+.error{color: red !important;}
+.headerFontColor{color: white !important;}
+.contactFontColor{color: white !important;}
+.loginFontColor{color: black !important;}
+.backGroundColor{background-color: white;}
+.addAddressStyle{margin-left: 820px !important; margin-bottom: -3px !important;}
+.discountImageStyle{height: 312px !important; width: 555px !important;}
+.text-align{text-align: right;}
+.float-right{float: right;}
+#details_error{color:  red;}
+.dropdown-menu{border: 2px solid !important;background-color: #fff !important;}
+.dt-button-collection{background-color: #D3D3D3 !important;}
+.dropdown-item{background-color: #D3D3D3 !important;}
+.dropdown-item.active, .dropdown-item:active{background-color: #fff !important;}
+.flex-wrap,.dataTables_length{
+    white-space: pre !important;
+    display: inline-block !important; 
+    margin-bottom: 20px; 
+    float: left !important;
+    margin-top: 15px !important;
+}
+.dataTables_length{white-space: pre !important; display: inline-block !important; float: left !important; margin-left: 640px; margin-top: 19.5px !important;}
+.dataTables_filter{display: inline-block !important; float: right !important; margin-top: 20px !important;}
+.datatable-search thead tr th input{position:inherit !important; width: 100% !important;}
+.headerButtonStyle{color: blue !important;}
+/*.page-content {display:none;}
+.preload { width:100px;height: 100px;position: fixed;top: 10%;left: 40%;}*/
+#dataGrid {
+    height: 500px;
+}
+#gridContainer {
+    height: 500px;
+}
+.bolfFont{
+    font-weight: bold;
+}
+.tableList-search thead tr th input{position:inherit !important; width: 100% !important;}
